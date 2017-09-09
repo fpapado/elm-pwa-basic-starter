@@ -1,4 +1,4 @@
-# Elm Service Worker Starter
+# Elm PWA Basic Starter
 This is a starting template for an Elm webpack configuration that supports offline assets via a service worker (SW), as well as a PWA manifest.
 It is inspired by `elm-webpack-starter`, with additions to handling assets.
 
@@ -18,7 +18,8 @@ I had a tough time naming this repo.
 - `elm-offline-starter` makes similar promises about handling the offline state in application logic, which it does not prescribe
 - `elm-pwa-starter` similarly might be a misnomer, since it might imply the more advanced loading of code splitting and SSR.
 
-Still, in the context of "starter" and "PWA minimum", the latter is the one I went with.
+Still, in the context of "starter" and "PWA minimum", the latter is the one that resonates with me.
+Adding 'basic' to try and indicate that it does not solve splitting and SSR.
 If you have an alternative name, please open an issue and let's discuss :)
 
 ## How?
